@@ -23,10 +23,10 @@
 <h3 align="center">Stats for nerds:</h3>
 
 <p align="center">
-  <img src="https://git-stats.ayaka.one/api?username=thereallo1026&show_icons=true&locale=en&bg_color=45,200f30,20153a&text_color=ffffff&icon_color=E24BEB&title_color=ffffff&hide_border=true">
+  <img src="https://github-readme-stats.thereallo.dev/api?username=thereallo1026&show_icons=true&locale=en&bg_color=45,200f30,20153a&text_color=ffffff&icon_color=E24BEB&title_color=ffffff&hide_border=true">
 </p>
 <p align="center">
-  <img src="https://git-stats.ayaka.one/api/top-langs?username=thereallo1026&show_icons=true&locale=en&layout=compact&bg_color=45,200f30,20153a&text_color=ffffff&icon_color=E24BEB&ring_color=B698E3&title_color=ffffff&hide_border=true">
+  <img src="https://github-readme-stats.thereallo.dev/api/top-langs?username=thereallo1026&show_icons=true&locale=en&layout=compact&bg_color=45,200f30,20153a&text_color=ffffff&icon_color=E24BEB&ring_color=B698E3&title_color=ffffff&hide_border=true&hide=java">
 </p>
 
 <!-- this is so important: https://youtube.com/watch?v=dQw4w9WgXcQ -->
