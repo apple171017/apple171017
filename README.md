@@ -1,11 +1,10 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Thereallo, I code python and some java, don't even ask me about C, C# and C++
+I'm Thereallo, I code python and some java, and found out that there are 14 bytes in a float
 
-Currently developimg Rektsky! Click [here](https://www.youtube.com/watch?v=IMAbzHamR6M) to check the preview!
+RektSky Client Developer
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1]!
+Find me on [![Twitter][1.2]][1] for Genshin Impact fanarts
 
 ![](https://img.shields.io/badge/Languages-Python-blue) ![](https://img.shields.io/badge/Languages-Java-orange) 
 <!-- Icons -->
