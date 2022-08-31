@@ -4,7 +4,7 @@ I'm Thereallo, I code python and some java, and found out that there are 14 byte
 RektSky Client Developer
 
 
-Find me on [![Twitter][1.2]][1] for Genshin Impact fanarts
+Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 
 ![](https://img.shields.io/badge/Languages-Python-blue) ![](https://img.shields.io/badge/Languages-Java-orange) 
 <!-- Icons -->
