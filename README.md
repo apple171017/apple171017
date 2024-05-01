@@ -1,6 +1,6 @@
-<h1 align="center">Hhhihihihihihh</h1>
+<h1 align="center">I break code</h1>
 
-<h3 align="center">I'm Thereallo</h3>
+<h3 align="center">I am Thereallo</h3>
 
 <p align="center">I do Python and Java and stuff.</p>
 
@@ -14,10 +14,10 @@
   <img src="https://lanyard.cnrad.dev/api/454920881177624576?hideDiscrim=true&bg=20153a&idleMessage=There%20are%2014%20bytes%20in%20a%20float&hideStatus=true" />
 </p>
 
-<h3 align="center">Stuff i know:</h3>
+<h3 align="center">Stuff that I know:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,git,cloudflare,vercel&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,astro,tailwind,cloudflare,vercel,py,java,git,figma,discordjs&perline=6" />
 </p>
 
 <h3 align="center">Stats for nerds:</h3>
