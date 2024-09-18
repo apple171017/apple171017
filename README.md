@@ -17,7 +17,7 @@
 <h3 align="center">Stuff that I know:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,astro,tailwind,cloudflare,vercel,py,java,git,figma,discordjs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,astro,tailwind,cloudflare,vercel,nextjs,py,java,git,figma,discordjs,bun,aws,mongodb&perline=8" />
 </p>
 
 <h3 align="center">Stats for nerds:</h3>
